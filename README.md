@@ -1,6 +1,6 @@
 # Structured Query Language (SQL) 🗄️
 
-This repository includes my practice and learning work in SQL, focusing on database concepts and query writing.
+This repository includes my practice and assignments in SQL, focusing on database concepts and query writing.
 
 ## 📌 Topics Covered
 - Database Basics  
